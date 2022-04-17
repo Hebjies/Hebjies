@@ -1,4 +1,4 @@
-### Hi there 👋, this is Heberto Jimenez
+# Hi there 👋, this is Heberto Jimenez
 ## An electrical engineer in love with machine learning and python.
 
 - 🔭 I’m currently working on ScotiaBank Technology
